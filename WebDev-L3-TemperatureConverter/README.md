@@ -21,3 +21,5 @@ A responsive Temperature Converter built using HTML, CSS and JavaScript.
 ## Author
 
 Shashank Singh Sengar
+
+Oasis Infobyte Internship Task 3
