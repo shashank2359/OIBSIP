@@ -2,25 +2,26 @@
 
 ## Overview
 
-A responsive personal portfolio website built using HTML5 and CSS3 showcasing my profile, technical skills, projects, and contact information.
+A responsive personal portfolio website showcasing my profile, technical skills, projects and contact information.
 
 ## Features
 
-- Responsive Design
-- Sticky Navigation
+- Sticky Navigation Bar
 - Hero Section
 - About Me
-- Technical Skills
-- Project Showcase
+- Skills Grid
+- Projects Section
 - Contact Section
-- Smooth Scrolling
+- Responsive Design
+- Smooth Scroll
 
 ## Tech Stack
 
 - HTML5
 - CSS3
-- Google Fonts
 
 ## Author
 
-**Shashank Singh Sengar**
+Shashank Singh Sengar
+
+Oasis Infobyte Internship Task 2
